@@ -4,9 +4,9 @@ rank_2024,rank_2023,name,gics_industry,gics_sector,hq_location, revenue_usd_ppp 
 3,2,Vestas Wind Systems A/S,Electrical Equipment,Industrials,"Aarhus, Denmark"," $22,337,564,610 ",66.5%,59.8%,82.6%,70:1,A
 4,9,Taiwan High Speed Rail Corp,Transportation Infrastructure,Industrials,"Taipei, Taiwan"," $2,439,925,948 ",56.3%,81.3%,,11:1,A
 5,,Nordex SE,Electrical Equipment,Industrials,"Hamburg, Germany"," $8,779,591,182 ",98.2%,65.3%,68.8%,82:1,A
-6,15,Banco do Brasil SA,Banks,Financials,"Brasília, Brazil"," $52,549,117,257 ",97.9%,79.5%,34.7%,9:1,A-
+6,15,Banco do Brasil SA,Banks,Financials,"BrasÃ­lia, Brazil"," $52,549,117,257 ",97.9%,79.5%,34.7%,9:1,A-
 7,7*,Schneider Electric SE,Electrical Equipment,Industrials,"Rueil-Malmaison, France"," $52,699,752,045 ",98.8%,74.8%,100.0%,97:1,A-
-8,18,Chr Hansen Holding A/S,Chemicals,Materials,"Hørsholm, Denmark"," $1,878,168,832 ",59.3%,71.9%,68.3%,34:1,A-
+8,18,Chr Hansen Holding A/S,Chemicals,Materials,"HÃ¸rsholm, Denmark"," $1,878,168,832 ",59.3%,71.9%,68.3%,34:1,A-
 9,7,Stantec Inc,Construction & Engineering,Industrials,"Edmonton, Canada"," $4,527,868,499 ",59.6%,35.2%,75.0%,60:1,A-
 10,,SMA Solar Technology AG,Semiconductors & Semiconductor Equipment,Information Technology,"Niestetal, Germany"," $1,643,699,962 ",72.0%,75.5%,,15:1,A-
 11,5,Autodesk Inc,Software,Information Technology,"San Francisco, U.S."," $5,005,000,000 ",100.0%,63.1%,,,A-
@@ -15,10 +15,10 @@ rank_2024,rank_2023,name,gics_industry,gics_sector,hq_location, revenue_usd_ppp 
 14,,Enphase Energy Inc,Semiconductors & Semiconductor Equipment,Information Technology,"Fremont, U.S."," $2,330,853,000 ",75.0%,72.0%,,,B+
 15,65,Telefonaktiebolaget LM Ericsson,Communications Equipment,Information Technology,"Stockholm, Sweden"," $31,333,849,283 ",61.0%,83.4%,83.9%,83:1,B+
 16,35,SunPower Corp,Electrical Equipment,Industrials,"Richmond, U.S."," $1,741,072,000 ",100.0%,,,,B+
-17,13,Ørsted A/S,Electric Utilities,Utilities,"Fredericia, Denmark"," $20,930,534,304 ",93.9%,84.7%,36.0%,35:1,B+
+17,13,Ã˜rsted A/S,Electric Utilities,Utilities,"Fredericia, Denmark"," $20,930,534,304 ",93.9%,84.7%,36.0%,35:1,B+
 18,,Alstom SA,Machinery,Industrials,"Saint-Ouen, France"," $25,453,967,902 ",72.6%,71.5%,55.9%,31:1,B+
 19,29,Neste Oyj,"Oil, Gas & Consumable Fuels",Energy,"Espoo, Finland"," $39,640,464,824 ",97.4%,92.4%,86.6%,14:1,B+
-20,10,Dassault Systèmes SE,Software,Information Technology,"Vélizy-Villacoublay, France"," $8,735,952,284 ",20.2%,43.1%,,27:1,B+
+20,10,Dassault SystÃ¨mes SE,Software,Information Technology,"VÃ©lizy-Villacoublay, France"," $8,735,952,284 ",20.2%,43.1%,,27:1,B+
 21,51,Giant Manufacturing Co Ltd,Leisure Products,Consumer Discretionary,"Taichung, Taiwan"," $6,047,945,003 ",31.7%,34.4%,39.4%,227:1,B+
 22,28,City Developments Ltd,Real Estate Management & Development,Real Estate,"Singapore, Singapore"," $4,031,105,263 ",64.0%,45.2%,59.0%,38:1,B+
 23,,Trane Technologies PLC,Building Products,Industrials,"Swords, Ireland"," $15,991,700,000 ",71.4%,38.5%,21.3%,126:1,B+
@@ -37,7 +37,7 @@ rank_2024,rank_2023,name,gics_industry,gics_sector,hq_location, revenue_usd_ppp 
 36,1,Radius Recycling,Metals & Mining,Materials,"Portland, U.S."," $3,485,815,000 ",44.6%,85.0%,100.0%,103:1,B
 37,87,Beazley PLC,Insurance,Financials,"London, U.K."," $3,466,600,000 ",75.3%,83.0%,,11:1,B
 38,20,Cascades Inc,Containers & Packaging,Materials,"Kingsey Falls, Canada"," $3,561,872,176 ",18.3%,45.3%,,66:1,B
-39,,EDP Renováveis SA,Independent Power and Renewable Electricity Producers,Utilities,"Madrid, Spain"," $3,656,856,396 ",85.5%,,,7:1,B
+39,,EDP RenovÃ¡veis SA,Independent Power and Renewable Electricity Producers,Utilities,"Madrid, Spain"," $3,656,856,396 ",85.5%,,,7:1,B
 40,32,Beijing Enterprises Water Group Ltd,Water Utilities,Utilities,"Wan Chai, Hong Kong"," $4,258,842,823 ",33.5%,31.7%,75.0%,,B
 41,49,Atea ASA,IT Services,Information Technology,"Oslo, Norway"," $3,016,575,101 ",48.8%,70.4%,,23:1,B
 42,64,Yadea Group Holdings Ltd,Automobiles,Consumer Discretionary,"Wuxi, China"," $7,722,646,832 ",57.7%,25.0%,41.6%,7:1,B
@@ -58,7 +58,7 @@ rank_2024,rank_2023,name,gics_industry,gics_sector,hq_location, revenue_usd_ppp 
 57,59,Intesa Sanpaolo SpA,Banks,Financials,"Turin, Italy"," $33,106,966,187 ",33.2%,27.6%,12.2%,102:1,B-
 58,23,Novozymes A/S,Chemicals,Materials,"Bagsvaerd, Denmark"," $2,777,456,917 ",13.6%,12.1%,5.9%,35:1,C+
 59,,Elisa Oyj,Diversified Telecommunication Services,Communication Services,"Helsinki, Finland"," $3,283,711,434 ",62.6%,67.2%,69.1%,31:1,C+
-60,89,Arçelik AS,Household Durables,Consumer Discretionary,"Istanbul, Turkey"," $26,594,873,722 ",87.5%,85.0%,81.3%,,C+
+60,89,ArÃ§elik AS,Household Durables,Consumer Discretionary,"Istanbul, Turkey"," $26,594,873,722 ",87.5%,85.0%,81.3%,,C+
 61,,Pirelli & C SpA,Auto Components,Consumer Discretionary,"Milan, Italy"," $10,201,520,731 ",28.1%,25.0%,33.3%,548:1,C+
 62,,Singapore Telecommunications Ltd,Diversified Telecommunication Services,Communication Services,"Singapore, Singapore"," $17,899,632,803 ",55.6%,46.4%,,28:1,C+
 63,12,Xinyi Solar Holdings Ltd,Semiconductors & Semiconductor Equipment,Information Technology,"Wuhu, China"," $3,502,223,150 ",17.9%,9.2%,14.7%,213:1,C+
@@ -73,10 +73,10 @@ rank_2024,rank_2023,name,gics_industry,gics_sector,hq_location, revenue_usd_ppp 
 72,80,Ricoh Co Ltd,"Technology Hardware, Storage & Peripherals",Information Technology,"Tokyo, Japan"," $22,414,493,085 ",34.2%,30.6%,,17:1,C+
 73,45,Cogeco Communications Inc,Media,Communication Services,"Montreal, Canada"," $2,313,425,610 ",28.8%,80.6%,,54:1,C+
 74,,Solaredge Technologies Inc,Semiconductors & Semiconductor Equipment,Information Technology,"Herzliya, Israel"," $3,110,279,000 ",58.5%,66.4%,,,C+
-75,,Telefônica Brasil SA,Diversified Telecommunication Services,Communication Services,"São Paulo, Brazil"," $26,782,292,808 ",96.4%,96.3%,,90:1,C+
+75,,TelefÃ´nica Brasil SA,Diversified Telecommunication Services,Communication Services,"SÃ£o Paulo, Brazil"," $26,782,292,808 ",96.4%,96.3%,,90:1,C+
 76,38,Unilever PLC,Personal Products,Consumer Staples,"London, U.K."," $92,633,198,870 ",65.2%,32.3%,44.3%,98:1,C+
 77,36,Xerox Holdings Corp,"Technology Hardware, Storage & Peripherals",Information Technology,"Norwalk, U.S."," $7,107,000,000 ",11.7%,20.0%,,,C
-78,43,Coloplast A/S,Health Care Equipment & Supplies,Health Care,"Humlebæk, Denmark"," $3,572,733,990 ",96.7%,53.1%,78.4%,43:1,C
+78,43,Coloplast A/S,Health Care Equipment & Supplies,Health Care,"HumlebÃ¦k, Denmark"," $3,572,733,990 ",96.7%,53.1%,78.4%,43:1,C
 79,77,Sun Life Financial Inc,Insurance,Financials,"Toronto, Canada"," $18,600,533,563 ",13.6%,22.7%,8.1%,124:1,C
 80,34,StarHub Ltd,Wireless Telecommunication Services,Communication Services,"Singapore, Singapore"," $2,848,592,411 ",59.1%,61.1%,92.2%,17:1,C
 81,67,Hewlett Packard Enterprise Co,"Technology Hardware, Storage & Peripherals",Information Technology,"Spring, U.S."," $28,496,000,000 ",34.6%,31.2%,,,C
@@ -84,7 +84,7 @@ rank_2024,rank_2023,name,gics_industry,gics_sector,hq_location, revenue_usd_ppp 
 83,94,Nordea Bank Abp,Banks,Financials,"Helsinki, Finland"," $21,637,491,827 ",84.0%,82.1%,92.2%,35:1,C
 84,70,Orkla ASA,Food Products,Consumer Staples,"Oslo, Norway"," $5,436,948,999 ",39.7%,70.4%,48.5%,17:1,C
 85,37,Telus Corp,Diversified Telecommunication Services,Communication Services,"Vancouver, Canada"," $14,588,841,434 ",39.5%,72.9%,,338:1,C
-86,81,Henkel AG & Co KgaA,Household Products,Consumer Staples,"Düsseldorf, Germany"," $34,536,409,953 ",53.9%,41.8%,57.8%,132:1,C
+86,81,Henkel AG & Co KgaA,Household Products,Consumer Staples,"DÃ¼sseldorf, Germany"," $34,536,409,953 ",53.9%,41.8%,57.8%,132:1,C
 87,,Prologis Inc,Equity Real Estate Investment Trusts (REITs),Real Estate,"San Francisco, U.S."," $9,591,259,000 ",98.3%,99.4%,99.5%,170:1,C
 88,,UniCredit SpA,Banks,Financials,"Milan, Italy"," $30,830,958,637 ",64.0%,40.2%,,60:1,C
 89,85,Commerzbank AG,Banks,Financials,"Frankfurt am Main, Germany"," $14,588,961,672 ",32.3%,60.7%,,36:1,C
@@ -95,7 +95,7 @@ rank_2024,rank_2023,name,gics_industry,gics_sector,hq_location, revenue_usd_ppp 
 94,,Bank of China Ltd,Banks,Financials,"Beijing, China"," $153,943,000,000 ",8.2%,6.6%,3.0%,4:1,C
 95,97,AstraZeneca PLC,Pharmaceuticals,Health Care,"Cambridge, U.K."," $44,351,000,000 ",91.3%,65.8%,89.1%,111:1,C-
 96,92,IGM Financial Inc,Capital Markets,Financials,"Winnipeg, Canada"," $3,092,019,285 ",100.0%,72.6%,,49:1,C-
-97,,Biomérieux SA,Health Care Equipment & Supplies,Health Care,"Marcy l'Étoile, France"," $5,534,430,011 ",65.0%,65.6%,65.3%,18:1,C-
+97,,BiomÃ©rieux SA,Health Care Equipment & Supplies,Health Care,"Marcy l'Ã‰toile, France"," $5,534,430,011 ",65.0%,65.6%,65.3%,18:1,C-
 98,,Manulife Financial Corp,Insurance,Financials,"Toronto, Canada"," $49,626,944,534 ",6.0%,8.3%,,155:1,C-
 99,57,Sino Land Co Ltd,Real Estate Management & Development,Real Estate,"Tsim Sha Tsui, Hong Kong"," $2,025,449,244 ",37.4%,17.5%,45.5%,50:1,C-
 100,,Sysmex Corp,Health Care Equipment & Supplies,Health Care,"Kobe, Japan"," $4,311,348,734 ",32.6%,67.9%,,22:1,C-
