@@ -49,4 +49,21 @@ This case study analyzes the relationship between corporate sustainability and f
   1.4 **Transform the Data**: Create derived columns
   
 ### 2. **Exploratory Analysis**
-  2.1 
+- **Analysis**
+  - **Summary Statistics**: Compute averages for revenue, profit_percent, energy_prod_score
+  - **Correlations**: Analyze relationships (e.g., `energy_prod_score` vs. `profit_usd`, `carbon_prod_score` vs. `revenue`)
+  - **Group Analysis**: Aggregate by `gics_sector` or `country` to compare sustainability-financial performance
+
+- **Visualizations** (Power BI)
+  - **Import Data**: Load `combined_2024.csv` into Power BI.
+  - **Create Visuals**
+    - **Scatter Plot**: `energy_prod_score` (x-axis) vs. `profit_usd` (y-axis), sized by `revenue`, colored by `climate_grade`
+    - **Bar Chart**: Average `profit_percent` by `gics_sector`
+    - **Line Chart**: `rank_2024` vs. `revenue` and `profit_usd`
+    - **Matrix**: `gics_industry` vs. `energy_prod_score`, `carbon_prod_score`, `revenue`, `profit_percent`
+  - **Add Filters**: Slicers for `gics_sector`, `country`, and `climate_grade`
+
+### 3. Outputs
+- **Exploratory Results**: `exploratory_results.md` with findings
+- **Visualizations**: PNGs/JPEGs in `visualizations/`
+- **Power BI File**: `sustainability_financial.pbix`
