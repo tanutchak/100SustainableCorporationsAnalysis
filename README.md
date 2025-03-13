@@ -13,10 +13,10 @@ This case study analyzes the relationship between corporate sustainability and f
 
 ## Datasets  
 - **Dataset 1**: 2024 Global 100 Full Dataset
-  - **Source**: 
+  - **Source**: [The Global 100 list: How the world’s most sustainable corporations are driving the green transition (Corporate Knights)](https://www.corporateknights.com/rankings/global-100-rankings/2024-global-100-rankings/the-20th-annual-global-100/)
   - **Key Columns**: 2024 Ranking, Name, USD Purchasing Power Parity Revenue, Energy Productivity Score, Carbon Productivity Score, Water Productivity Score, Overall Score
 - **Dataset 2**: Most Sustainable Corporations
-  - **Source**: 
+  - **Source**: [Top 100 most sustainable corporations (Kaggle)](https://www.kaggle.com/datasets/prajwaldongre/top-100-most-sustainable-corporations)
   - **Key Columns**: Rank, Company, Revenue, Profit %, Climate Grade, Sustainability Initiatives
 - **Relationship**: Linked via 2024 Ranking (Full Dataset) = Rank (Most Sustainable).
 ## Repository Structure  
