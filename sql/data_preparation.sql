@@ -126,3 +126,28 @@ SELECT
     women_workforce_percent 
 FROM Combined 
 LIMIT 5;
+
+-- Count records to be deleted for review
+SELECT COUNT(*) AS rows_to_delete
+FROM Combined
+WHERE revenue = 0 
+   OR profit_percent = 0 
+   OR profit_usd = 0 
+   OR revenue IS NULL 
+   OR profit_percent IS NULL 
+   OR profit_usd IS NULL;
+-- Delete records with revenue, profit_percent, or profit_usd = 0 or NULL
+DELETE FROM Combined
+WHERE revenue = 0 
+   OR profit_percent = 0 
+   OR profit_usd = 0 
+   OR revenue IS NULL 
+   OR profit_percent IS NULL 
+   OR profit_usd IS NULL;
+-- Verify remaining records
+SELECT COUNT(*) AS remaining_rows
+FROM Combined;
+-- Check a sample of remaining data
+SELECT rank_2024, company, revenue, profit_percent, profit_usd
+FROM Combined
+LIMIT 5;
